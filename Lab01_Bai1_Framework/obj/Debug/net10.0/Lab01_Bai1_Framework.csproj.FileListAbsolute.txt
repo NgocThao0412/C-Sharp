@@ -1,0 +1,14 @@
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\bin\Debug\net10.0\Lab01_Bai1_Framework.exe
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\bin\Debug\net10.0\Lab01_Bai1_Framework.deps.json
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\bin\Debug\net10.0\Lab01_Bai1_Framework.runtimeconfig.json
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\bin\Debug\net10.0\Lab01_Bai1_Framework.dll
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\bin\Debug\net10.0\Lab01_Bai1_Framework.pdb
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.AssemblyInfoInputs.cache
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.AssemblyInfo.cs
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.csproj.CoreCompileInputs.cache
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.dll
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\refint\Lab01_Bai1_Framework.dll
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.pdb
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\Lab01_Bai1_Framework.genruntimeconfig.cache
+D:\C sharp\Lab01_Bai1_Framework\Lab01_Bai1_Framework\obj\Debug\net10.0\ref\Lab01_Bai1_Framework.dll
