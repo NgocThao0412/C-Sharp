@@ -17,10 +17,9 @@ namespace Lab01_Bai3
             //3. Tính x mũ y bằng hàm Math.Pow
             double ketQua = Math.Pow(x, y);
 
-            //4. Xuất kết quả ra màn hình
+            //4. Xuất kết quả 
             Console.WriteLine("Ket qua " + x + " mũ " + y + " = " + ketQua);
 
-            // Dừng màn hình xem kết quả
             Console.ReadLine();
         }
     }

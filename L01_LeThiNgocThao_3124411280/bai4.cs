@@ -13,7 +13,7 @@ namespace Lab01_Bai4
             Console.Write("Nhap so nguyen y: ");
             bool isY = int.TryParse(Console.ReadLine(), out int y);
 
-            // Dùng câu lệnh if đơn giản kiểm tra cả x và y [1]
+            // Dùng câu lệnh if đơn giản kiểm tra cả x và y
             if (isX && isY)
             {
                 long ketQua = (long)Math.Pow(x, y);
