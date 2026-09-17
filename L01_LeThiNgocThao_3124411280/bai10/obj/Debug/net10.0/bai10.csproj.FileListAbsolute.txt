@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/bin/Debug/net10.0/bai10
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/bin/Debug/net10.0/bai10.deps.json
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/bin/Debug/net10.0/bai10.runtimeconfig.json
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/bin/Debug/net10.0/bai10.dll
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/bin/Debug/net10.0/bai10.pdb
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.AssemblyInfo.cs
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.sourcelink.json
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.dll
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/refint/bai10.dll
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.pdb
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/bai10.genruntimeconfig.cache
+/workspaces/C-Sharp/L01_LeThiNgocThao_3124411280/bai10/obj/Debug/net10.0/ref/bai10.dll
