@@ -1,0 +1,5 @@
+/workspaces/C-Sharp/L02_LeThiNgocThao_3124411280/obj/Debug/net8.0/baitap.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/L02_LeThiNgocThao_3124411280/obj/Debug/net8.0/baitap.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/L02_LeThiNgocThao_3124411280/obj/Debug/net8.0/baitap.AssemblyInfo.cs
+/workspaces/C-Sharp/L02_LeThiNgocThao_3124411280/obj/Debug/net8.0/baitap.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/L02_LeThiNgocThao_3124411280/obj/Debug/net8.0/baitap.sourcelink.json
