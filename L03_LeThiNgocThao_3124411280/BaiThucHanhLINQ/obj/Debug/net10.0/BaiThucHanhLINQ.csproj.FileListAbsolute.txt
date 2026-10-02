@@ -1,0 +1,15 @@
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.AssemblyInfoInputs.cache
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.AssemblyInfo.cs
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.sourcelink.json
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/bin/Debug/net10.0/BaiThucHanhLINQ
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/bin/Debug/net10.0/BaiThucHanhLINQ.deps.json
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/bin/Debug/net10.0/BaiThucHanhLINQ.runtimeconfig.json
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/bin/Debug/net10.0/BaiThucHanhLINQ.dll
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/bin/Debug/net10.0/BaiThucHanhLINQ.pdb
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.dll
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/refint/BaiThucHanhLINQ.dll
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.pdb
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/BaiThucHanhLINQ.genruntimeconfig.cache
+/workspaces/C-Sharp/L03_LeThiNgocThao_3124411280/BaiThucHanhLINQ/obj/Debug/net10.0/ref/BaiThucHanhLINQ.dll
