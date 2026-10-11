@@ -10,65 +10,50 @@ public class FormMenu : Form
     public FormMenu()
     {
         Text = "Menu Lab 05c";
-        ClientSize = new Size(440, 340);
+        ClientSize = new Size(480, 465);
         StartPosition = FormStartPosition.CenterScreen;
+        Font = new Font("Arial", 11);
 
         Label lbl = new Label
         {
             Text = "THUC HANH LAB 05C",
-            Location = new Point(75, 25),
-            Size = new Size(320, 40),
-            Font = new Font("Arial", 17, FontStyle.Bold),
+            Location = new Point(75, 20),
+            Size = new Size(370, 45),
+            Font = new Font("Arial", 19, FontStyle.Bold),
             ForeColor = Color.Blue
         };
         Controls.Add(lbl);
 
-        Button btnBai1 = new Button
+        ThemNut("Bai 1 - Uoc so", 80,
+            () => new FormBai1().ShowDialog(this));
+
+        ThemNut("Bai 2 - Quan ly sinh vien", 140,
+            () => new FormBai2().ShowDialog(this));
+
+        ThemNut("Ve nha 1 - Tu dien Anh Viet", 200,
+            () => new FormTuDien().ShowDialog(this));
+
+        ThemNut("Ve nha 2 - Xu ly ListBox", 260,
+            () => new FormListBox().ShowDialog(this));
+
+        ThemNut("Ve nha 3 - Danh ba", 320,
+            () => new FormDanhBa().ShowDialog(this));
+
+        ThemNut("Thoat", 390, () => Close());
+    }
+
+    private void ThemNut(
+        string ten, int y, Action hanhDong)
+    {
+        Button btn = new Button
         {
-            Text = "Bai 1 - Uoc so",
-            Location = new Point(80, 90),
-            Size = new Size(280, 42)
+            Text = ten,
+            Location = new Point(85, y),
+            Size = new Size(310, 43)
         };
 
-        Button btnBai2 = new Button
-        {
-            Text = "Bai 2 - Quan ly sinh vien",
-            Location = new Point(80, 145),
-            Size = new Size(280, 42)
-        };
+        btn.Click += (s, e) => hanhDong();
 
-        Button btnThoat = new Button
-        {
-            Text = "Thoat",
-            Location = new Point(150, 205),
-            Size = new Size(140, 35)
-        };
-
-        btnBai1.Click += (s, e) =>
-            new FormBai1().ShowDialog(this);
-
-        btnBai2.Click += (s, e) =>
-            new FormBai2().ShowDialog(this);
-
-            
-Button btnTuDien = new Button
-{
-    Text = "Bai ve nha 1 - Tu dien Anh Viet",
-    Location = new Point(80, 200),
-    Size = new Size(280, 42)
-};
-
-btnTuDien.Click += (s, e) =>
-    new FormTuDien().ShowDialog(this);
-
-Controls.Add(btnTuDien);
-
-
-        btnThoat.Location = new Point(150, 265);
-
-        Controls.AddRange(new Control[]
-        {
-            btnBai1, btnBai2, btnTuDien, btnThoat
-        });
+        Controls.Add(btn);
     }
 }
