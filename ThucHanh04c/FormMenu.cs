@@ -10,7 +10,7 @@ public class FormMenu : Form
     public FormMenu()
     {
         Text = "Menu - Lab 04c";
-        ClientSize = new Size(430, 410);
+        ClientSize = new Size(430, 460);
         StartPosition = FormStartPosition.CenterScreen;
 
         Label tieuDe = new Label
@@ -35,7 +35,11 @@ public class FormMenu : Form
         ThemNut("Bai 4 - Tinh tong day so", 245,
             () => new Form1().ShowDialog(this));
 
-        ThemNut("Thoat", 300, () => Close());
+        ThemNut("Bai 5 - Doc so thanh chu", 300,
+            () => new FormBai5().ShowDialog(this));
+
+
+        ThemNut("Thoat", 355, () => Close());
     }
 
     private void ThemNut(
