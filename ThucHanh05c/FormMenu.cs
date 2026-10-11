@@ -10,7 +10,7 @@ public class FormMenu : Form
     public FormMenu()
     {
         Text = "Menu Lab 05c";
-        ClientSize = new Size(440, 280);
+        ClientSize = new Size(440, 340);
         StartPosition = FormStartPosition.CenterScreen;
 
         Label lbl = new Label
@@ -50,11 +50,25 @@ public class FormMenu : Form
         btnBai2.Click += (s, e) =>
             new FormBai2().ShowDialog(this);
 
-        btnThoat.Click += (s, e) => Close();
+            
+Button btnTuDien = new Button
+{
+    Text = "Bai ve nha 1 - Tu dien Anh Viet",
+    Location = new Point(80, 200),
+    Size = new Size(280, 42)
+};
+
+btnTuDien.Click += (s, e) =>
+    new FormTuDien().ShowDialog(this);
+
+Controls.Add(btnTuDien);
+
+
+        btnThoat.Location = new Point(150, 265);
 
         Controls.AddRange(new Control[]
         {
-            btnBai1, btnBai2, btnThoat
+            btnBai1, btnBai2, btnTuDien, btnThoat
         });
     }
 }
