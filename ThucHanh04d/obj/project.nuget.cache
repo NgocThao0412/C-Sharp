@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uKDHaUEgA7Q=",
+  "success": true,
+  "projectFilePath": "/workspaces/C-Sharp/ThucHanh04d/ThucHanh04d.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.windowsdesktop.app.ref/10.0.12/microsoft.windowsdesktop.app.ref.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
