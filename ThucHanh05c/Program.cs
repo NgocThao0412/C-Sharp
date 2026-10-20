@@ -1,16 +1,16 @@
-namespace ThucHanh05c;
+using System;
+using System.Windows.Forms;
 
-static class Program
+namespace ThucHanh05c
 {
-    /// <summary>
-    ///  The main entry point for the application.
-    /// </summary>
-    [STAThread]
-    static void Main()
+    internal static class Program
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new FormMenu());
-    }    
+        [STAThread]
+        static void Main()
+        {
+            ApplicationConfiguration.Initialize();
+            // Khởi chạy Menu chính làm màn hình đầu tiên
+            Application.Run(new frmMenu());
+        }
+    }
 }
